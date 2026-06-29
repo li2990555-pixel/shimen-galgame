@@ -1,0 +1,13 @@
+# Ignore all symlinked skills (they live in CherryStudio's central skills directory)
+.claude/skills/
+
+# Agent memory files
+memory/
+
+# CherryStudio workspace artifacts
+web/
+arg-game/
+prototype/
+
+# System files
+.DS_Store
