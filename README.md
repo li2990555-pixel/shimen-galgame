@@ -101,10 +101,10 @@ ls ~/.claude/skills/shimen-galgame/SKILL.md
 ```
 docs/
 ├── 01-需求调研/
-│   ├── 创意方案库-鲁门心法.md
+│   ├── 创意方案库-师门galgame攻略助手.md
 │   └── ...
 └── 02-方案设计/
-    ├── MVP方案-鲁门心法.md
+    ├── MVP方案-师门galgame攻略助手.md
     └── ...
 
 skill/
