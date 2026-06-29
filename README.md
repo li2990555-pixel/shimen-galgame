@@ -65,10 +65,10 @@
 
 ### 方式一：作为 Claude Code Skill 使用
 
-确保 `lumian-xinfa` skill 已安装：
+确保 `lumen-xinfa` skill 已安装：
 
 ```bash
-ls ~/.claude/skills/lumian-xinfa/SKILL.md
+ls ~/.claude/skills/lumen-xinfa/SKILL.md
 ```
 
 然后在对话中直接输入场景即可：
